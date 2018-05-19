@@ -8,13 +8,16 @@
 
 This is a web app bulit for celebrating the May 20th (Which means 'I Love You' in Chinese) with my girl friend. ;P
 It was inspired by the message effect named *echo* in iMessage.
-This is not a business project. So dont waste too much bandwidth of my now.sh account. thanks.
 
 Just make your fun.
 
+## DEMO
+
+[https://iwillwen.github.io/echo/](https://iwillwen.github.io/echo/)
+
 ## Usage
 
-Clone this project and deploy it to any static server like now.sh.
+Clone this project and deploy it to any static server like [now.sh](now.sh).
 
 ```bash
 $ git clone github.com/iwillwen/echo
@@ -28,7 +31,7 @@ Browse the website and click(or press space/enter).
 
 You can change the messages to show, just concat them with hash symbol(`#`) and
 put the uri-ecnoded (like using encodeURIComponent) string into the hash of the url.
-Just like https://echo.example.com/#MessageOne#MessageTwo#MessageThree.
+Just like https://iwillwen.github.io/echo/#MessageOne#MessageTwo#MessageThree.
 Because the unicode are supported, so emoji is good.
 
 Maybe there is a good idea that showing 'I Love You' in some different languages. hmm
