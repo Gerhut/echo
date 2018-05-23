@@ -46,3 +46,4 @@ body {
   border-bottom: 0;
   border-bottom-left-radius: 1rem;
 }
+[v-cloak] { visibility: hidden; }
